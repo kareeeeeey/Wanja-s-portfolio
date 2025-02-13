@@ -1,0 +1,56 @@
+.nav-items{
+text-align: left;
+font-size: 50px;
+background-color: white;
+color: black;
+display: flex;
+flex-direction: row;
+gap: 50px;
+justify-content: right;
+color: white;
+
+}
+
+.info h1{
+font-size: 65px;
+color: gray;
+
+}
+
+.info h3{
+font-size: 18px;
+letter-spacing: 1px;
+
+
+}
+
+.info span{
+color: peru;
+
+}
+
+.background-img {
+    height: 100%;
+    width: 100%;
+
+}
+
+
+
+.logo {
+    height: 1rem;
+    width: 1rem;
+}
+
+.bio{
+border: solid;
+
+}
+
+.hire-me {
+    font-size: 20px;
+}
+
+.hire-me:hover {
+    cursor: pointer;
+}
