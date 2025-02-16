@@ -53,14 +53,6 @@ border: solid;
 }
 
 .hire-btn:hover {
-    cursor: pointer;
-    background-color: white;
+  cursor: pointer;
+  background-color: white;
 }
-
-/* body {
-  background-color: darkgray;
-}
-
-header {
-  background-color: darkgray;
-} */
