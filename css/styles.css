@@ -42,15 +42,50 @@ color: peru;
     width: 1rem;
 }
 
-.bio{
-border: solid;
-
-}
-
 .hire-me {
     font-size: 20px;
 }
 
 .hire-me:hover {
     cursor: pointer;
+    
+}
+
+.images{
+display:flex;
+flex-direction: column;
+
+}
+.nav-items ul{
+color: white;
+background-color: white;
+
+
+}
+.nav-items ul a{
+color: black;
+
+}
+
+.nav-items:hover{
+
+
+    
+}
+
+body{
+
+
+
+}
+*{
+margin: 50pxpx;
+padding: 0px;
+
+
+}
+
+.footer{
+bottom: 100px;
+
 }
