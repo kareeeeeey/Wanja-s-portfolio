@@ -54,6 +54,7 @@ border: solid;
 
 .hire-btn:hover {
     cursor: pointer;
+    background-color: white;
 }
 
 /* body {
