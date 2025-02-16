@@ -1,91 +1,57 @@
-.nav-items{
-text-align: left;
-font-size: 50px;
-background-color: white;
-color: black;
-display: flex;
-flex-direction: row;
-gap: 50px;
-justify-content: right;
-color: white;
-
+.nav-items {
+  text-align: left;
+  font-size: 50px;
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  justify-content: right;
+  color: white;
 }
 
-.info h1{
-font-size: 65px;
-color: gray;
-
+.info h1 {
+  font-size: 65px;
+  color: gray;
 }
 
-.info h3{
-font-size: 18px;
-letter-spacing: 1px;
-
-
+.info h3 {
+  font-size: 18px;
+  letter-spacing: 1px;
 }
 
-.info span{
-color: peru;
-
+.info span {
+  color: peru;
 }
 
 .background-img {
-    height: 100%;
-    width: 100%;
-
+  height: 100%;
+  width: 100%;
 }
-
-
 
 .logo {
-    height: 1rem;
-    width: 1rem;
+  height: 1rem;
+  width: 1rem;
 }
 
-.hire-me {
-    font-size: 20px;
+.bio{
+border: solid;
+
+}
+
+.hire-btn {
+  font-size: 20px;
+  background-color: peru;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: relative;
+  left: 100px;
 }
 
 .hire-me:hover {
     cursor: pointer;
-    
-}
-
-.images{
-display:flex;
-flex-direction: column;
-
-}
-.nav-items ul{
-color: white;
-background-color: white;
-
-
-}
-.nav-items ul a{
-color: black;
-
-}
-
-.nav-items:hover{
-
-
-    
-}
-
-body{
-
-
-
-}
-*{
-margin: 50pxpx;
-padding: 0px;
-
-
-}
-
-.footer{
-bottom: 100px;
-
 }
